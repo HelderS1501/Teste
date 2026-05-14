@@ -1,2 +1,2 @@
 # Teste
-Apenas teste
+Apenas teste de comandos GIT
